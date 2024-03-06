@@ -13,21 +13,52 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Eternagram
+  descr: "Credit: Latisha Besariani Hendra (Back-End),<a class=\"highlight-title\"> Qinshi Zhang (Front-End)</a>, Suifang Zhou (Game Design)<br><br>
+  <a href=\"https://www.figma.com/file/H8QSnFBGWVWHsr0KtDcR1x/Eternagram?type=design&node-id=102%3A3&mode=design&t=EFo6wo8ueDWTAoRD-1\" class=\"highlight-link\">User Interface</a>
+  /<a href=\"https://eternagram.xyz/\" class=\"highlight-link\">Game URL</a>
+  /<a href=\"https://github.com/Carolzhangzz/Eternagram\" class=\"highlight-link\">GitHub</a>"
+  demo: https://drive.google.com/file/d/1XllwNe9dRExplsAWpIiAOuk9snLeT8Wd/view?usp=sharing
   tags:
+    - tag: Climate Change
+    - tag: GPT-4 
+    - tag: Interactive Game
+    - tag: World-Building 
+
+- name: Online NBA
+  descr: "Credit: Yuxin Du (Game Design),<a class=\"highlight-title\"> Qinshi Zhang (Web Dev)</a>, Yiru Zhu (Document)<br><br>"
+  tags:
+    - tag: Mini-App
+    - tag: Basketball Game
+
+
+
+- name: Smart Picking Ball Robot
+  descr: "Authors: <a class=\"highlight-title\"> Qinshi Zhang</a> and Yiru Zhu (course report only), Haiwei Yin, Yaowu Sun, Chuhui Wang.<br><br>
+  COMP728_2022_IOT, AUT, 2022<br> <br><br>
+  <a href=\"https://drive.google.com/file/d/16sPR8LBI0KnhmSgpp2SdIN1dZPmh3Qj3/view?usp=sharing\" class=\"highlight-link\">course report</a> 
+  / <a href=\"https://drive.google.com/file/d/1_kd4lgk9Rnn1f9_bgCsvBtaQZouQpjSv/view?usp=sharing\" class=\"highlight-link\">Model</a> 
+  / <a href=\"files/Final Brief.pdf\" class=\"highlight-link\">Brief sheet</a> "
+  demo: https://drive.google.com/file/d/1ba22Gc98a4ozUngW9Uudc0W_wSMTaKES/view
+  tags:
+    - tag: Raspberry Pi
+    - tag: OpenCV
+    - tag: sensor
+    - tag: IOT
+
+- name: Video Analysis Framework Based on Gstreamer
+  descr: "Advisor: Dr. Haijun Tao and Dr. Lin Xiang<br> Authors:<a class=\"highlight-title\"> Qinshi Zhang (as leader)</a>, Yingying Huang, Weiyi Ren, Yiru Zhu, Shimei Meng<br><br>
+  COMP704 R&D 2022 OT, CJLU&AUT, 2022<br><br>
+  <a href=\"https://drive.google.com/file/d/1CfMyn3eZBBWowjYs9DjviqZxheoKe7fM/view?usp=sharing\" class=\"highlight-link\">course report</a> 
+  / <a href=\"figs/publications/poster.jpg\" class=\"highlight-link\">Project poster</a>
+  / <a href=\"https://github.com/Carolzhangzz/Viedo-analysis-based-on-Gstreamer\" class=\"highlight-link\">GitHub</a>"
+  demo: https://drive.google.com/file/d/1O-6ghjR7rW2qSQ2WA35l5QUtQN_dQb3u/view
+  tags:
+    - tag: OpenCV
+    - tag: MYSQL
+    - tag: SpringBoot
+    - tag: Gstreamer
+    - tag: Vue
     - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
-    - tag: Python
-    - tag: Django
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
