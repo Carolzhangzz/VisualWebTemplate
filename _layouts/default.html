@@ -32,32 +32,68 @@
   </div>
   {% include landing-page.html %}
   <div class="layout">
-    {%if site.show_aboutme_card %}
+
+    <!-- Aboutme -->
+    {%if site.show_aboutme_card %} 
       <section class="card neumorphism-card-big">
         {% include section-aboutme.html %}
       </section>
     {% endif %}
-    {%if site.show_skills_card %}
+
+
+    <!-- News -->
+    {%if site.show_news_card %} 
       <section class="card neumorphism-card-big">
-        {% include section-skills.html %}
+        {% include section-news.html %}
       </section>
     {% endif %}
-    {%if site.show_timeline_card %}
+
+    <!-- Research -->
+    {%if site.show_research_card %} 
       <section class="card neumorphism-card-big">
-        {% include section-timeline.html %}
+        {% include section-research.html %}
       </section>
     {% endif %}
+
+    <!-- PUBlications -->
+    {% if site.show_publication_card %} 
+      <section class="card neumorphism-card-big">
+        {% include section-publication.html %}
+      </section>
+    {% endif %}
+
+
+    <!-- Projects -->
     {%if site.show_projects_card %}
       <section class="card neumorphism-card-big">
         {% include section-projects.html %}
       </section>
     {% endif %}
-    {%if site.show_contact_card %}
+
+    <!-- Education and Experience -->
+    {%if site.show_timeline_card %}
     <section class="card neumorphism-card-big">
-      {% include section-contact.html %}
+      {% include section-timeline.html %}
     </section>
     {% endif %}
-  </div>
-  {% include footer.html %}
+
+       <!-- Contact -->
+       {%if site.show_contact_card %}
+       <section class="card neumorphism-card-big">
+         {% include section-contact.html %}
+       </section>
+       {% endif %}
+   
+
+    <!-- Skills -->
+    {%if site.show_skills_card %}
+      <section class="card neumorphism-card-big">
+        {% include section-skills.html %}
+      </section>
+    {% endif %}
+
+  
+    </div>
+    {% include footer.html %}
 </body>
 </html>
