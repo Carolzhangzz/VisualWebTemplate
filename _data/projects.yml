@@ -21,9 +21,9 @@
   demo: https://drive.google.com/file/d/1XllwNe9dRExplsAWpIiAOuk9snLeT8Wd/view?usp=sharing
   tags:
     - tag: Climate Change
-    - tag: GPT-4 
     - tag: Interactive Game
-    - tag: World-Building 
+    - tag: GPT-4 
+    - tag: ReactJS 
 
 - name: Online NBA
   descr: "Credit: Yuxin Du (Game Design),<a class=\"highlight-title\"> Qinshi Zhang (Web Dev)</a>, Yiru Zhu (Document)<br><br>
@@ -33,6 +33,7 @@
   tags:
     - tag: Mini-App
     - tag: Basketball Game
+    - tag: My SQL
 
 
 - name: Smart Picking Ball Robot
