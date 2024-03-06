@@ -26,10 +26,10 @@
     - tag: World-Building 
 
 - name: Online NBA
-  descr: |
+  descr: 
     "Credit: Yuxin Du (Game Design),<a class=\"highlight-title\"> Qinshi Zhang (Web Dev)</a>, Yiru Zhu (Document)<br><br>
     <a href=\"https://www.figma.com/file/cCQOCH7DHpHGlc96fjbt1R/My-NBA?type=design&node-id=0%3A1&mode=design&t=ysyzXxwRVIxiSwNo-1\" class=\"highlight-link\">UI</a> 
-    /<a href=\"https://x3jwserome.feishu.cn/mindnotes/bmncnxFLEkqaaJEUF0XtGP1FQhd\" class=\"highlight-link\">Guide Doc</a>"
+    /<a href=\"https://x3jwserome.feishu.cn/mindnotes/bmncnxFLEkqaaJEUF0XtGP1FQhd" class=\"highlight-link\">Guide Doc</a>“
   demo: https://drive.google.com/file/d/1XllwNe9dRExplsAWpIiAOuk9snLeT8Wd/view?usp=sharing
   tags:
     - tag: Mini-App
