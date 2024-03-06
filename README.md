@@ -1,4 +1,6 @@
-Hi，welcome to my personal website repo. This site's code is based on [Longdu](https://github.com/longpdo/neumorphism).
+## Hi，welcome to my personal website repo. 
+
+This site's code is based on [Longdu](https://github.com/longpdo/neumorphism).
 
 <!-- LICENSE -->
 
