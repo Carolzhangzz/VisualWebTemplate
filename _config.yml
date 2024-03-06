@@ -2,29 +2,30 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Qinshi(Carol)Zhang 
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Qinshi Zhang
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: "/web_dev"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: Qinshi
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Designer and Developer
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: carolzhang705@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+codepen_username: Carolzhangzz
+github_username: Carolzhangzz
+# dev_username: exampleUser
+twitter_username: Carol_Zhang1027
+linkedin_username: qinshiz
+
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,26 +35,52 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: 
+  I obtained my Bachelor's degree in Computer Science and Technology from the School of Information Engineering at <a class="highlight-link" href="https://english.cjlu.edu.cn//" target="_blank" rel="noreferrer">China Jiliang University (CJLU)</a> and another 
+  degree in Computer and Information Science at<a class="highlight-link" href="https://www.aut.ac.nz/" target="_blank" rel="noreferrer">Auckland University of Technology (AUT)</a>, advised by Dr. Lin Xiang and Dr. Haijun Tao.<br><br><br>
+  
+  My research interests lie in <a class="highlight-title" href="">Human-Computer Interaction (HCI)</a>, <a class="highlight-title" href="#">Machine Learning</a>
+  and <a class="highlight-title" href="#"> Human-AI Interaction</a>, especially the societal impact of technologies, surrounding sustainability, privacy leakage, and social justice concerns in general.
 
-# SKILLS SECTION
-# show_skills_card:
-# > setting this to true, will display the Skills section
-# > setting this to false, will omit the Skills section
-show_skills_card: true
-# about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
 
-# TIMELINE SECTION
-# show_timeline_card:
-# > setting this to true, will display the Timeline section
-# > setting this to false, will omit the Timeline section
-show_timeline_card: true
-# timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
-# cv_download_link: The link where you host your cv.
-# > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+# NEWS SECTION
+# show_news_card:
+# > setting this to true, will display the News section
+# > setting this to false, will omit the News section
+show_news_card: true
+# news_title: The title displayed in the News section
+news_title: News
+# news_description: This will be displayed under the title.
+news_description: |
+  2024.01 I will be serving as a Student Volunteer at CHI 2024! See you in Hawaiʻi!!<br><br>
+  2024.01 My Co-First Author Paper: 'Eternagram: Probing Player Attitudes Towards Climate Change Using a ChatGPT-driven Text-based Adventure.' Has been conditionally accepted to <a class='highlight-link' href='https://chi2024.acm.org/' target='_blank' rel='noreferrer'>CHI Conference on Human Factors in Computing Systems</a>.<br><br>
+  2023.11 I will be serving as a Volunteer at <a class='highlight-link' href='https://chchi2023.icachi.org/' target='_blank' rel='noreferrer'>Chinese CHI2023</a>.<br><br>
+  2023.06 Our Artwork 'Forgotten Planet' Submitted to <a class='highlight-link' href='https://asia.siggraph.org/2023/submissions/art-gallery/' target='_blank' rel='noreferrer'>SIGGRAPH ASIA 2023</a>.<br><br>
+
+# RESEARCH SECTION
+show_research_card: true
+research_title: Research Interests
+research_description: |
+    I would always welcome the opportunity to work together!<br><br>
+    If you are interested in working in a similar area, please <a href="https://calendly.com/carolzhang705" class="highlight-link"><strong>schedule</strong></a> a 30-minute conversation with me.<br><br>
+
+    I have completed several projects in HCI:<br><br>
+    [Incentive design for mobile sensin]: Advised by <a href="https://zhaokaixing.github.io/" target="_blank" class="highlight-link">Dr. KaiXing Zhao</a>, <a href="https://en.nwpu.edu.cn/" target="_blank" class="highlight-link">Northwestern Polytechnical University</a>; ongoing research. Collecting feedback data on pedestrian behavior and quantifying data quality through machine learning methods for campus safety issues, by integrating human and AI.<br><br>
+    [A ChatGPT-powered interactive game for climate awareness]: Advised by <a href="https://www.scm.cityu.edu.hk/people/ray-lc" target="_blank" class="highlight-link">Dr. Ray LC</a>, <a href="https://www.cityu.edu.hk/" target="_blank" class="highlight-link">City University of Hong Kong</a>; paper accepted to CHI 2024 (first author).<br><br>
+    [An automated video analysis framework based on Gstreamer library and Yolo v5 algorithm]: Advised by Dr. Haijun Tao & Dr. Lin Xiang, <a href="https://english.cjlu.edu.cn/" target="_blank" class="highlight-link">China Jiliang University</a>; undergraduate thesis project.<br>
+
+# PUblications
+show_publication_card: true
+publication_title: Publications
+publication_description: |
+   Notes: * indicates equal contribution. † indicates corresponding author.<br><br>
+   [CHI 2024] Eternagram: Probing Player Attitudes in Alternate Climate Scenarios Through a ChatGPT-Driven Text Adventure.<br><br>
+   Authors: Suifang Zhou*, Latisha Besariani Hendra*, <a class="highlight-title">Qinshi Zhang*</a>, Jussi Holopainen, RAY LC†;<br><br>
+   Conditionally Accept<br><br>
+   <a href="https://drive.google.com/file/d/1Fm62cVkkHolpZtW_2DgspIr5v8rHdRA9/view?usp=sharing" class="highlight-link">pdf</a> /
+   <a href="https://arxiv.org/" class="highlight-link">arXiv</a> /
+   <a href="files/CHI24(Preview).np4" class="highlight-link">Video</a> /
+   <a href="https://eternagram.xyz/" class="highlight-link">Game URL</a>
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -69,24 +96,56 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
+
+# TIMELINE SECTION
+# show_timeline_card:
+# > setting this to true, will display the Timeline section
+# > setting this to false, will omit the Timeline section
+show_timeline_card: true
+# timeline_title: The will be displayed as the title in the Timeline section
+timeline_title: Education & Experience
+# cv_download_link: The link where you host your cv.
+# > e.g. you share your cv on your dropbox, then add the dropbox link here
+cv_download_link: https://drive.google.com/file/d/1EhcvCq2cuj2FzxgULbNz77Z53yhwBt_m/view?usp=sharing
+
+
 # CONTACT SECTION
-# show_contact_card:
-# > setting this to true, will display the Contact section
-# > setting this to false, will omit the Contact section
+# show_contact_card: This key determines if the Contact section should be displayed or not.
 show_contact_card: true
-# contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
-# contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+
+# contact_title: This key sets the title displayed in the Contact section.
+contact_title: Misc
+
+# contact_description: This provides a description under the title in the Contact section.
+contact_description: |
+  Outside of work, I enjoy playing video games<br><br>
+
+  <a href="https://www.rockstargames.com/gta-v" class="highlight-link">GTA </a> (I've completed all the story missions in GTA)<br><br>
+
+  <a href="https://www.playstation.com/en-us/uncharted/" class="highlight-link">Uncharted</a> (My favorite is the fourth version) <br><br>
+
+  <a href="https://www.quanticdream.com/en/detroit-become-human" class="highlight-link">Detroit: Become Human.</a> (I've achieved the harmonious ending：D)<br><br>
+
+  I'd like to dedicate more time to exploring various sports in the future, such as tennis and frisbee.
+
+
+# SKILLS SECTION
+# show_skills_card:
+# > setting this to true, will display the Skills section
+# > setting this to false, will omit the Skills section
+show_skills_card: false
+# about_me_title: The will be displayed as the title in the Skills section
+skills_title: Skills
+
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: Carolzhangzz/web_dev
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -126,3 +185,4 @@ exclude:
     "node_modules",
     "package.json",
   ]
+
