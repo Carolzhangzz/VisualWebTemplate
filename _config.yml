@@ -53,7 +53,7 @@ news_title: News
 # news_description: This will be displayed under the title.
 news_description: |
   2024.01 I will be serving as a Student Volunteer at CHI 2024! See you in Hawaiʻi!!<br><br>
-  2024.01 My Co-First Author Paper: 'Eternagram: Probing Player Attitudes Towards Climate Change Using a ChatGPT-driven Text-based Adventure.' Has been conditionally accepted to <a class='highlight-link' href='https://chi2024.acm.org/' target='_blank' rel='noreferrer'>CHI Conference on Human Factors in Computing Systems</a>.<br><br>
+  2024.01 My Co-First Author Paper: 'Eternagram: Probing Player Attitudes Towards Climate Change Using a ChatGPT-driven Text-based Adventure.' Has been accepted to <a class='highlight-link' href='https://chi2024.acm.org/' target='_blank' rel='noreferrer'>CHI Conference on Human Factors in Computing Systems</a>.<br><br>
   2023.11 I will be serving as a Volunteer at <a class='highlight-link' href='https://chchi2023.icachi.org/' target='_blank' rel='noreferrer'>Chinese CHI2023</a>.<br><br>
   2023.06 Our Artwork 'Forgotten Planet' Submitted to <a class='highlight-link' href='https://asia.siggraph.org/2023/submissions/art-gallery/' target='_blank' rel='noreferrer'>SIGGRAPH ASIA 2023</a>.<br><br>
 
@@ -65,9 +65,9 @@ research_description: |
     If you are interested in working in a similar area, please <a href="https://calendly.com/carolzhang705" class="highlight-link"><strong>schedule</strong></a> a 30-minute conversation with me.<br><br>
 
     I have completed several projects in HCI:<br><br>
-    [Incentive design for mobile sensin]: Advised by <a href="https://zhaokaixing.github.io/" target="_blank" class="highlight-link">Dr. KaiXing Zhao</a>, <a href="https://en.nwpu.edu.cn/" target="_blank" class="highlight-link">Northwestern Polytechnical University</a>; ongoing research. Collecting feedback data on pedestrian behavior and quantifying data quality through machine learning methods for campus safety issues, by integrating human and AI.<br><br>
-    [A ChatGPT-powered interactive game for climate awareness]: Advised by <a href="https://www.scm.cityu.edu.hk/people/ray-lc" target="_blank" class="highlight-link">Dr. Ray LC</a>, <a href="https://www.cityu.edu.hk/" target="_blank" class="highlight-link">City University of Hong Kong</a>; paper accepted to CHI 2024 (first author).<br><br>
-    [An automated video analysis framework based on Gstreamer library and Yolo v5 algorithm]: Advised by Dr. Haijun Tao & Dr. Lin Xiang, <a href="https://english.cjlu.edu.cn/" target="_blank" class="highlight-link">China Jiliang University</a>; undergraduate thesis project.<br>
+    (1)[Incentive design for mobile sensing]: Advised by <a href="https://zhaokaixing.github.io/" target="_blank" class="highlight-link">Dr. KaiXing Zhao</a>, <a href="https://en.nwpu.edu.cn/" target="_blank" class="highlight-link">Northwestern Polytechnical University</a>; ongoing research. Collecting feedback data on pedestrian behavior and quantifying data quality through machine learning methods for campus safety issues, by integrating human and AI.<br><br>
+    (2)[A ChatGPT-powered interactive game for climate awareness]: Advised by <a href="https://www.scm.cityu.edu.hk/people/ray-lc" target="_blank" class="highlight-link">Dr. Ray LC</a>, <a href="https://www.cityu.edu.hk/" target="_blank" class="highlight-link">City University of Hong Kong</a>; paper accepted to CHI 2024 (first author).<br><br>
+    (3)[An automated video analysis framework based on Gstreamer library and Yolo v5 algorithm]: Advised by Dr. Haijun Tao & Dr. Lin Xiang, <a href="https://english.cjlu.edu.cn/" target="_blank" class="highlight-link">China Jiliang University</a>; undergraduate thesis project.<br>
 
 # PUblications
 show_publication_card: true
