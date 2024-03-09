@@ -14,9 +14,9 @@ $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
 // 改普通文本的颜色
-$text-color: black!default;
+$text-color: #0008ff!default;
 // 改背景的颜色
-$bg-color: yellow;
+$bg-color: #ffffff;
 
 // $text-color: #fff !default;
 // $bg-color: rgba(43, 45, 47, 1);
@@ -32,7 +32,7 @@ $card-bg-color: linear-gradient(
   #fefffc 80%
 );
 // 改有 link 的颜色
-$primary-color:  blue;
+$primary-color:  #ae00ff;
 
 /* General */
 
@@ -258,6 +258,7 @@ a {
   top: 40%;
 }
 
+
 .landing-icons {
   display: flex;
   justify-content: center;
@@ -286,7 +287,7 @@ a {
     }
 
     .social-svg {
-      fill: white;
+      fill: #000;
     }
 
     .label {
@@ -628,8 +629,9 @@ a {
       font-size: 1.5rem;
     }
 
+    // 刚才改了这里
     .social-svg {
-      fill: $primary-color;
+      fill: #000;
     }
 
     &:hover {
@@ -644,7 +646,7 @@ a {
 
   .black:hover {
     .social-svg {
-      fill: #000;
+      fill: #f00000;
     }
   }
 
