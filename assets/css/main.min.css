@@ -4,7 +4,7 @@
 
 html {
     background: #fff;
-    color: #0008ff;
+    color: #000;
     font-family: Raleway, sans-serif;
     font-size: 1rem;
     font-weight: 400;
@@ -27,31 +27,31 @@ p {
 }
 
 a {
-    color: #ff5619;
+    color: #ff8400;
     text-decoration: none
 }
 
 a:hover {
-    color: #0008ff
+    color: #000
 }
 
 .highlight-title {
-    color: #ff5619;
-    text-shadow: .25rem .25rem .25rem #ff5619
+    color: #ff8400;
+    text-shadow: .25rem .25rem .25rem #ff8400
 }
 
 .highlight-link {
-    box-shadow: inset 0 -.125rem 0 #ff5619;
+    box-shadow: inset 0 -.125rem 0 #ff8400;
     box-sizing: border-box;
-    color: #ff5619;
+    color: #ff8400;
     display: inline-block;
     padding: .125rem;
     transition: all .2s ease-in-out
 }
 
 .highlight-link:hover {
-    box-shadow: inset 0 -2rem 0 0 #ff5619;
-    color: #0008ff
+    box-shadow: inset 0 -2rem 0 0 #ff8400;
+    color: #000
 }
 
 .layout {
@@ -130,21 +130,21 @@ a:hover {
 
 #preloader .load :first-child {
     animation-delay: -1.5s;
-    background: #0008ff
+    background: #000
 }
 
 #preloader .load :nth-child(2) {
     animation-delay: -1s;
-    background: #ff5619
+    background: #ff8400
 }
 
 #preloader .load :nth-child(3) {
     animation-delay: -.5s;
-    background: #0008ff
+    background: #000
 }
 
 #preloader .load :last-child {
-    background: #ff5619
+    background: #ff8400
 }
 
 @keyframes a {
@@ -169,21 +169,21 @@ a:hover {
 
 .footer {
     background: #fff;
-    color: #0008ff;
+    color: #000;
     margin: .5rem;
     padding: 1rem;
     text-align: center
 }
 
 .footer a {
-    color: #ff5619
+    color: #ff8400
 }
 
 #landing,
 .footer a:focus,
 .footer a:hover {
     background: #fff;
-    color: #0008ff
+    color: #000
 }
 
 #landing {
@@ -214,7 +214,7 @@ a:hover {
 }
 
 .landing-icons .social-link {
-    color: #0008ff;
+    color: #000;
     position: relative;
     height: 3rem;
     line-height: 3rem;
@@ -251,7 +251,7 @@ a:hover {
 
 .landing-icons .social-link:hover .circle {
     animation: b 1s ease-in-out forwards, d 1s linear forwards;
-    fill: #0008ff;
+    fill: #000;
     fill-opacity: 1
 }
 
@@ -298,13 +298,13 @@ a:hover {
 
 @keyframes c {
     0% {
-        stroke: #0008ff;
+        stroke: #000;
         stroke-dasharray: 510;
         stroke-width: .5rem
     }
 
     to {
-        stroke: #0008ff;
+        stroke: #000;
         stroke-dasharray: 83;
         stroke-width: .5rem
     }
@@ -414,7 +414,7 @@ a:hover {
 }
 
 .timeline-wrapper .hexagon {
-    background: #ff5619;
+    background: #ff8400;
     height: .5rem;
     left: 0;
     margin-left: auto;
@@ -437,12 +437,12 @@ a:hover {
 }
 
 .timeline-wrapper .hexagon:before {
-    border-bottom: .25rem solid #ff5619;
+    border-bottom: .25rem solid #ff8400;
     top: -.25rem
 }
 
 .timeline-wrapper .hexagon:after {
-    border-top: .25rem solid #ff5619;
+    border-top: .25rem solid #ff8400;
     bottom: -.25rem
 }
 
@@ -465,7 +465,7 @@ a:hover {
 
 .timeline-wrapper .flag span:after {
     content: "≫";
-    color: #ff5619;
+    color: #ff8400;
     position: absolute;
     opacity: 0;
     right: -1rem;
@@ -483,7 +483,7 @@ a:hover {
 }
 
 .timeline-wrapper .time-wrapper {
-    color: #0008ff;
+    color: #000;
     display: block;
     line-height: .5rem;
     margin-top: .3rem
@@ -527,7 +527,7 @@ a:hover {
 }
 
 .project-stars-forks {
-    fill: #0008ff;
+    fill: #000;
     font-family: Josefin Sans, sans-serif
 }
 
@@ -572,7 +572,7 @@ a:hover {
 }
 
 .contact-icons .social-link:hover .social-svg {
-    fill: #0008ff
+    fill: #000
 }
 
 .contact-icons .black:hover .social-svg {
@@ -652,7 +652,7 @@ a:hover {
     }
 
     #skills input[type=radio]:checked+.filter-button {
-        color: #ff5619;
+        color: #ff8400;
         font-weight: 600;
         background: linear-gradient(150deg, hsla(0, 0%, 8%, .4) 10%, hsla(0, 0%, 45%, .15) 80%);
         box-shadow: 1px 1px 2px 0 hsla(0, 0%, 82%, .4), -1px -1px 2px rgba(0, 0, 0, .4), inset 3px 3px 2px 0 rgba(0, 0, 0, .4), inset -1px -2px 2px hsla(0, 0%, 82%, .4)
